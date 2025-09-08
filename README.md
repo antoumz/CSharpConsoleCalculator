@@ -1,4 +1,4 @@
-# Simple Console Calculator
+# CSharp Console Calculator
 
 A simple console-based calculator written in C#.  
 It performs basic arithmetic operations: **addition, subtraction, multiplication, and division**.
