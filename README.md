@@ -1,3 +1,18 @@
+# Simple Console Calculator
+
+A simple console-based calculator written in C#.  
+It performs basic arithmetic operations: **addition, subtraction, multiplication, and division**.
+
+---
+
+## 🛠️ Requirements
+
+- Windows operating system
+- .NET 6.0 or higher
+- Visual Studio 2022
+
+---
+
 ## 💻 How to run the project
 
 1. Download the project:
